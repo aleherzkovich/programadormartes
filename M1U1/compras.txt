@@ -1,2 +1,3 @@
-comida
+verduras
+carnes
 limpieza
