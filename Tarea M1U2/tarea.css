@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(242, 230, 196);
+}
+
+.barra{
+    background-color: black;
+    color: aquamarine;
+    padding: 10px 30px;
+    display:inline-block; 
+    text-decoration: none;
+    font-size: 55px;
+}
+.barra:hover{
+    background-color: aquamarine;
+    color: black;
+}
+nav{
+    background-color: black;
+}
+p{
+    column-count: 2;
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-gap: 20px;
+-webkit-column-gap: 20px;
+-moz-column-gap: 20px;
+column-rule: 2px solid #000000;
+-webkit-column-rule: 2px solid #000000;
+-moz-column-rule: 2px solid #000000;
+}
+
+.formulario{
+    background-color: rgb(202, 202, 202);
+    margin-left: 15px;
+    margin-left: 80px;
+    display: inline-block;
+}
+.dipper{
+    display: flex;
+    justify-content:flex-end;
+    background-color: blueviolet;
+    justify-content: space-between;
+
+}
