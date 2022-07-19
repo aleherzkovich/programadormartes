@@ -1,0 +1,11 @@
+#caja1  {width:500; height: 300; border: 20px ridge #8f8484; background-color:  red;display: inline-block;cursor: pointer;}
+#caja2  {width:500; height: 300; border: 20px ridge #8f8484; background-color:  blue;display: inline-block;cursor: pointer;}
+#caja3  {width:500; height: 300; border: 20px ridge #8f8484; background-color:  yellow; display: inline-block;cursor: pointer;}
+/*doy forma y color a los botones*/
+#fondo {
+    height: 100vh;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    /*cambie el color del background con el ID del body*/ 
